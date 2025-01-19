@@ -11,7 +11,8 @@ Change the JSON file called test.json in the JSON folder to whichever URLs you w
 
 Then open Python IDLE and select Run. The program should look like this when opened:
 
-https://github.com/GeorgeT59/Creator-Content-Tracker/blob/main/Creator%20Content%20Tracker/Creator%20Content%20Tracker.png?raw=true
+![Alt text](Creator Content Tracker/Creator Content Tracker.png)
+
 
 # About the JSON file:
 
