@@ -21,4 +21,4 @@ date_clicked: Last date it was clicked using this app.
 
 If you know JSON, you can add more objects (name, creator, and website fields)
 
-date_created 'should' be created automatically.
+date_created 'should' be created automatically upon clicking/opening the URL.
