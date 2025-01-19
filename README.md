@@ -8,3 +8,14 @@ I only tested this on a Mac OS (So I can't say how it'll be on Windows or other 
 
 # How to use:
 Change the JSON file called test.json in the JSON folder to whichever URLs you wish to track.
+
+# About the JSON file:
+
+name = The name of the website.
+creator = Name of the creator.
+website = URL [Most important field, naming this something else won't work.]
+date_clicked: Last date it was clicked using this app.
+
+If you know JSON, you can add more objects (name, creator, and website fields)
+
+date_created 'should' be created automatically.
