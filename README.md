@@ -9,6 +9,8 @@ I only tested this on a Mac OS (So I can't say how it'll be on Windows or other 
 # How to use:
 Change the JSON file called test.json in the JSON folder to whichever URLs you wish to track.
 
+Then open Python IDLE and select Run. The program should look like this when opened:
+
 # About the JSON file:
 
 name = The name of the website.
